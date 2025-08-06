@@ -1,0 +1,5 @@
+python-telegram-bot==22.3
+requests==2.31.0
+asyncio
+logging
+datetime
